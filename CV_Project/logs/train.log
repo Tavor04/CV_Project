@@ -1,0 +1,304 @@
+
+
+========== Training started: 2025-04-08 21:29:41.583715 ==========
+
+
+========== Training started: 2025-04-08 21:31:42.542003 ==========
+
+
+========== Training started: 2025-04-08 21:34:33.288860 ==========
+
+
+========== Training started: 2025-04-08 21:39:14.276303 ==========
+
+
+========== Training started: 2025-04-08 21:46:52.633023 ==========
+
+
+========== Training started: 2025-04-08 21:50:12.397369 ==========
+
+
+========== Training started: 2025-04-08 21:56:15.489444 ==========
+
+
+========== Training started: 2025-04-08 22:04:21.123496 ==========
+
+
+========== Training started: 2025-04-08 22:05:44.553535 ==========
+
+
+========== Training started: 2025-04-08 22:08:29.543480 ==========
+Epoch 1 - Loss: 6.9497
+Epoch 2 - Loss: 6.9301
+Epoch 3 - Loss: 6.9190
+Epoch 4 - Loss: 6.9147
+Epoch 5 - Loss: 6.9123
+Epoch 6 - Loss: 6.9124
+Epoch 7 - Loss: 6.9117
+Epoch 8 - Loss: 6.9112
+Epoch 9 - Loss: 6.9119
+Epoch 10 - Loss: 6.9117
+Epoch 11 - Loss: 6.9115
+Epoch 12 - Loss: 6.9111
+Epoch 13 - Loss: 6.9117
+Epoch 14 - Loss: 6.9112
+Epoch 15 - Loss: 6.9114
+Epoch 16 - Loss: 6.9118
+Epoch 17 - Loss: 6.9116
+Epoch 18 - Loss: 6.9116
+Epoch 19 - Loss: 6.9108
+Epoch 20 - Loss: 6.9119
+========== Training completed: 2025-04-08 22:13:02.409524 ==========
+
+
+========== Training started: 2025-04-09 18:01:23.318389 ==========
+
+
+========== Training started: 2025-04-09 18:03:59.161048 ==========
+
+
+========== Training started: 2025-04-09 18:07:51.231433 ==========
+
+
+========== Training started: 2025-04-09 18:13:23.588060 ==========
+
+
+========== Training started: 2025-04-09 18:17:53.939491 ==========
+
+
+========== Training started: 2025-04-09 18:23:55.809790 ==========
+
+
+========== Training started: 2025-04-09 21:46:14.714055 ==========
+
+
+========== Training started: 2025-04-09 21:52:10.024051 ==========
+
+
+========== Training started: 2025-04-09 21:57:22.195161 ==========
+
+
+========== Training started: 2025-04-09 22:07:16.551429 ==========
+
+
+========== Training started: 2025-04-09 22:19:24.652531 ==========
+
+
+========== Training started: 2025-04-09 22:21:09.467313 ==========
+
+
+========== Training started: 2025-04-09 22:23:39.633597 ==========
+
+
+========== Training started: 2025-04-09 22:28:29.988286 ==========
+
+
+========== Training started: 2025-04-09 22:29:40.441755 ==========
+
+
+========== Training started: 2025-04-10 00:49:08.391299 ==========
+
+
+========== Training started: 2025-04-10 00:51:07.636542 ==========
+Epoch 1 - Loss: 5.3728
+
+
+========== Training started: 2025-04-09 16:58:21.682088 ==========
+
+
+========== Training started: 2025-04-09 16:59:28.998663 ==========
+
+
+========== Training started: 2025-04-09 16:59:47.675349 ==========
+Epoch 1 - Loss: 5.3739
+Epoch 2 - Loss: 3.4144
+Epoch 3 - Loss: 2.7257
+Epoch 4 - Loss: 2.4222
+Epoch 5 - Loss: 2.2231
+Epoch 6 - Loss: 2.0765
+Epoch 7 - Loss: 1.9573
+Epoch 8 - Loss: 1.8513
+Epoch 9 - Loss: 1.7482
+Epoch 10 - Loss: 1.6467
+Epoch 11 - Loss: 1.5406
+Epoch 12 - Loss: 1.4391
+Epoch 13 - Loss: 1.3521
+Epoch 14 - Loss: 1.2862
+Epoch 15 - Loss: 1.2405
+Epoch 16 - Loss: 1.2035
+Epoch 17 - Loss: 1.1692
+Epoch 18 - Loss: 1.1411
+Epoch 19 - Loss: 1.1167
+Epoch 20 - Loss: 1.0942
+Epoch 21 - Loss: 1.0742
+Epoch 22 - Loss: 1.0562
+Epoch 23 - Loss: 1.0377
+Epoch 24 - Loss: 1.0214
+Epoch 25 - Loss: 1.0060
+Epoch 26 - Loss: 0.9908
+Epoch 27 - Loss: 0.9756
+Epoch 28 - Loss: 0.9616
+Epoch 29 - Loss: 0.9504
+Epoch 30 - Loss: 0.9392
+========== Training completed: 2025-04-09 19:35:34.199299 ==========
+
+
+========== Training started: 2025-04-09 21:55:23.165519 ==========
+
+
+========== Training started: 2025-04-09 21:56:18.261692 ==========
+
+
+========== Training started: 2025-04-09 23:21:25.319402 ==========
+
+
+========== Training started: 2025-04-09 23:26:55.765563 ==========
+
+
+========== Training started: 2025-04-09 23:27:36.398252 ==========
+
+
+========== Training started: 2025-04-10 04:16:06.083408 ==========
+Epoch 1 - Loss: 5.9439
+
+
+========== Training started: 2025-04-10 05:04:29.610507 ==========
+Epoch 1 - Loss: 5.9337
+Epoch 2 - Loss: 5.8962
+Epoch 3 - Loss: 5.8936
+Epoch 4 - Loss: 5.8925
+Epoch 5 - Loss: 5.8914
+Epoch 6 - Loss: 5.8906
+Epoch 7 - Loss: 5.8903
+Epoch 8 - Loss: 5.8902
+Epoch 9 - Loss: 5.8897
+Epoch 10 - Loss: 5.8894
+Epoch 11 - Loss: 5.8894
+Epoch 12 - Loss: 5.8894
+Epoch 13 - Loss: 5.8894
+Epoch 14 - Loss: 5.8891
+Epoch 15 - Loss: 5.8891
+Epoch 16 - Loss: 5.8893
+Epoch 17 - Loss: 5.8893
+Epoch 18 - Loss: 5.8892
+Epoch 19 - Loss: 5.8892
+Epoch 20 - Loss: 5.8894
+Epoch 21 - Loss: 5.8894
+Epoch 22 - Loss: 5.8892
+Epoch 23 - Loss: 5.8893
+Epoch 24 - Loss: 5.8894
+Epoch 25 - Loss: 5.8893
+Epoch 26 - Loss: 5.8891
+Epoch 27 - Loss: 5.8891
+Epoch 28 - Loss: 5.8894
+Epoch 29 - Loss: 5.8893
+Epoch 30 - Loss: 5.8892
+Epoch 31 - Loss: 5.8893
+Epoch 32 - Loss: 5.8892
+Epoch 33 - Loss: 5.8893
+Epoch 34 - Loss: 5.8892
+Epoch 35 - Loss: 5.8893
+Epoch 36 - Loss: 5.8893
+Epoch 37 - Loss: 5.8893
+Epoch 38 - Loss: 5.8892
+Epoch 39 - Loss: 5.8894
+Epoch 40 - Loss: 5.8893
+Epoch 41 - Loss: 5.8893
+Epoch 42 - Loss: 5.8893
+Epoch 43 - Loss: 5.8894
+Epoch 44 - Loss: 5.8895
+Epoch 45 - Loss: 5.8893
+Epoch 46 - Loss: 5.8893
+Epoch 47 - Loss: 5.8894
+Epoch 48 - Loss: 5.8895
+Epoch 49 - Loss: 5.8894
+Epoch 50 - Loss: 5.8893
+========== Training completed: 2025-04-10 08:29:44.411871 ==========
+
+
+========== Training started: 2025-04-10 10:09:03.839213 ==========
+Epoch 1 - Loss: 3.3481
+Epoch 2 - Loss: 1.6735
+Epoch 3 - Loss: 1.2291
+Epoch 4 - Loss: 1.0862
+Epoch 5 - Loss: 1.0045
+Epoch 6 - Loss: 0.9580
+Epoch 7 - Loss: 0.9209
+Epoch 8 - Loss: 0.8977
+Epoch 9 - Loss: 0.8740
+Epoch 10 - Loss: 0.8580
+Epoch 11 - Loss: 0.8400
+Epoch 12 - Loss: 0.8250
+Epoch 13 - Loss: 0.8117
+Epoch 14 - Loss: 0.7988
+Epoch 15 - Loss: 0.7863
+Epoch 16 - Loss: 0.7755
+Epoch 17 - Loss: 0.7666
+Epoch 18 - Loss: 0.7546
+Epoch 19 - Loss: 0.7451
+Epoch 20 - Loss: 0.7354
+Epoch 21 - Loss: 0.7275
+Epoch 22 - Loss: 0.7159
+Epoch 23 - Loss: 0.7083
+Epoch 24 - Loss: 0.7006
+Epoch 25 - Loss: 0.6919
+Epoch 26 - Loss: 0.6836
+Epoch 27 - Loss: 0.6751
+Epoch 28 - Loss: 0.6689
+Epoch 29 - Loss: 0.6594
+Epoch 30 - Loss: 0.6536
+Epoch 31 - Loss: 0.6450
+Epoch 32 - Loss: 0.6395
+Epoch 33 - Loss: 0.6313
+Epoch 34 - Loss: 0.6274
+Epoch 35 - Loss: 0.6190
+Epoch 36 - Loss: 0.6127
+Epoch 37 - Loss: 0.6075
+Epoch 38 - Loss: 0.6019
+Epoch 39 - Loss: 0.5956
+Epoch 40 - Loss: 0.5884
+Epoch 41 - Loss: 0.5849
+Epoch 42 - Loss: 0.5776
+Epoch 43 - Loss: 0.5729
+Epoch 44 - Loss: 0.5692
+
+
+========== Training started: 2025-04-10 14:23:39.216050 ==========
+
+
+========== Training started: 2025-04-10 13:21:00.766386 ==========
+Epoch 1 - Loss: 3.3254
+Epoch 2 - Loss: 1.6748
+Epoch 3 - Loss: 1.2352
+Epoch 4 - Loss: 1.0975
+Epoch 5 - Loss: 1.0120
+Epoch 6 - Loss: 0.9603
+Epoch 7 - Loss: 0.9251
+Epoch 8 - Loss: 0.9010
+Epoch 9 - Loss: 0.8770
+Epoch 10 - Loss: 0.8592
+Epoch 11 - Loss: 0.8405
+Epoch 12 - Loss: 0.8279
+Epoch 13 - Loss: 0.8125
+Epoch 14 - Loss: 0.7996
+
+
+========== Training started: 2025-04-10 14:28:05.873286 ==========
+
+
+========== Training started: 2025-04-10 14:31:55.260185 ==========
+
+
+========== Training started: 2025-04-10 15:07:41.327411 ==========
+
+
+========== Training started: 2025-04-10 15:10:36.121704 ==========
+
+
+========== Training started: 2025-04-10 15:16:49.818297 ==========
+
+
+========== Training started: 2025-04-10 15:18:11.867851 ==========
+
+
+========== Training started: 2025-04-10 15:18:56.050003 ==========
